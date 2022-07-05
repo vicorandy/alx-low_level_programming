@@ -1,5 +1,5 @@
 #include "main.h"
-#include "_putchar.c"
+#incude "_putchar"
 
 /**
  * print_alphabet_x10 - Prints the alphabet 10 times.

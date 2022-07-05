@@ -1,7 +1,9 @@
 #include "main.h"
-#include "_putchar.c"
+
 /**
- * main - check the  code.
+ * print_sign - check the  code.
+ *
+ *@n : variable to store input
  *
  * Return: Always 0.
  */

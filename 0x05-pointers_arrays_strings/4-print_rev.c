@@ -17,11 +17,9 @@ void print_rev(char *s)
 		}
 		size++;
 	}
-	int i;
-
-	for (i = size; size >= 0; size--)
+	for (size--; size >= 0; size--)
 	{
-		_putchar(s[i]);
+		_putchar(s[size]);
 	}
 	_putchar('\n');
 }
